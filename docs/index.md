@@ -10,3 +10,11 @@ Quick links:
 - [Architecture](architecture.md)
 - [Retrieval & RAG](retrieval.md)
 - [Experiments](experiments.md)
+
+Production checklist coverage:
+
+- System architecture and trade-offs
+- Retrieval backends and evaluation methods
+- Security and governance controls
+- Observability and operational runbooks
+- Deployment guidance and release workflows

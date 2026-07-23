@@ -12,7 +12,6 @@ Install dependencies (recommended in a venv):
 ```bash
 cd ai-systems-notes
 python -m pip install -r requirements.txt
-python -m pip install mkdocs-material
 ```
 
 Serve the docs locally:
@@ -27,4 +26,10 @@ Build a static site:
 ```bash
 mkdocs build
 # preview in site/
+```
+
+Run quality check:
+
+```bash
+mkdocs build --strict
 ```

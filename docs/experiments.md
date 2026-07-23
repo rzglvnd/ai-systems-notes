@@ -8,3 +8,11 @@ Each experiment should include:
 - `inputs/` with test datasets
 - `scripts/` with reproducible commands
 - `results/` with raw outputs and analysis
+
+Minimum reporting standard
+
+- Experimental objective and hypothesis
+- Dataset scope and known limitations
+- Full command history or notebook snapshot
+- Environment details (CPU/GPU, dependency versions)
+- Reproducibility notes and expected variance
